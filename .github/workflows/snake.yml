@@ -1,0 +1,24 @@
+name: Generate Snake
+
+on:
+  schedule: 
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: manasm1706
+      - name: Push to output branch
+        uses: AdityaTD/gh-pages@v2.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          target_branch: output
+          commit_message: "🐍 Updated Snake Animation 🐍"
