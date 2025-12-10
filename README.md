@@ -1,6 +1,6 @@
 <!-- Pixel Ship Branding -->
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https://pixeljoint.com/files/icons/full/pirateship.gif&f=1&nofb=1" width="140" />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https://pixeljoint.com/files/icons/full/gnzuifa.png&f=1&nofb=1" width="140" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <b>Manas Mungekar</b></h1>
@@ -28,7 +28,7 @@ I enjoy transforming ideas into working digital solutions, with an emphasis on c
 - Backend Node.js + MongoDB Atlas
 - Authentication + UI contributions
 - Improving performance & UX continuously
-🔧 *(Repo link coming soon)*
+🔧 (https://github.com/manasm1706/PharmaWare-Invictus)
 
 ---
 
@@ -47,9 +47,9 @@ Connecting contractors & workers with job posts & profiles
 
 ---
 
-### 🐍 Contribution Snake — Your Live Progress Tracker
+### 🐍 Contribution Snake 
 
-![snake gif](https://raw.githubusercontent.com/manasm1706/manasm1706/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/manasm1706/manasm1706/output/github-contribution-grid-snake.svg)
 
 ---
 
