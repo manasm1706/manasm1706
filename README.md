@@ -1,63 +1,99 @@
-<!-- Pixel Ship Branding -->
+<!-- Pixel Branding -->
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https://pixeljoint.com/files/icons/full/gnzuifa.png&f=1&nofb=1" width="140" />
+  <img src="https://pixeljoint.com/files/icons/full/gnzuifa.png" width="140" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <b>Manas Mungekar</b></h1>
-<h3 align="center">Engineering modern web apps with thoughtful design & reliable systems</h3>
+<h3 align="center">
+  Full-Stack Developer | AI Systems Builder | MERN + Data Engineering
+</h3>
 
 <p align="center">
-  Full-stack developer in progress · MERN · Data & Analytics · UI-first mindset
+  Building scalable web apps, intelligent systems, and real-world solutions 🚀
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I enjoy turning ideas into working web applications with a focus on:
+I’m a Computer Engineering student focused on building **real-world software systems** — from full-stack apps to AI-powered platforms.
 
-- clean, maintainable code  
-- simple and friendly user interfaces  
-- learning fast through projects & hackathons  
+- 💻 Full-stack development (MERN + modern tools)
+- 🤖 AI-driven systems (ML + vector databases)
+- ⚡ Real-world experience through internships & hackathons
+- 🎯 Focused on scalable, user-centric solutions
 
-Currently exploring full-stack development (MERN) and data-driven applications.
+---
+
+## 🧠 Experience
+
+### 💼 Software Developer Intern — Eagle Electrical Systems
+- Built **Reprice AI**, a dynamic pricing platform
+- Implemented **ML-based pricing models**
+- Used **Pinecone (vector DB)** for real-time decision systems
+- Worked across full stack (React + Node + NeonDB)
+
+---
+
+### 💼 Software Development Intern — Megasys India
+- Developed features in **React Native (Expo) app**
+- Implemented **secure API-based authentication**
+- Worked on real-time scanning systems
+
+---
+
+### 💼 Web Development Intern — Megasys India
+- Built UI components using **HTML, CSS, JavaScript**
+- Implemented **API throttling & backend optimizations**
+- Worked on **ASP.NET-based systems**
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,express,mongodb,supabase,firebase,python,java,git,github,linux,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,python,java,firebase,supabase,git,github,linux,vscode,html,css" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 PharmaWare — Smart Medication Management  
-Built during a 24-hour hackathon (Top 5)
+### 🔥 Reprice AI — Intelligent Pricing System
+> AI-powered dynamic pricing using real-time data & vector embeddings
 
-- Backend with **Node.js + MongoDB Atlas**
-- Authentication & secure data storage
-- Contributed to **React + Vite** frontend and UX
+- ⚙️ React + Node.js + NeonDB + Pinecone
+- 🤖 ML-based pricing engine
+- 🧠 Vector search for decision-making
+- 🔄 Multi-agent tracking system
 
-🔗 Repo: https://github.com/manasm1706/PharmaWare-Invictus  
-
----
-
-### 🔹 LabourNet — Construction Service Platform (MERN)
-
-Connecting contractors & workers through job posts & profiles.
-
-- MERN stack: **React, Node, Express, MongoDB Atlas**
-- Authentication, job listings, profile management
-- Focus on clean, usable UI
-
-🔗 Repo: https://github.com/manasm1706/labournet  
+🔗 https://github.com/manasm1706/Reprice-Master-Repo  
 
 ---
 
-## 🎮 Play My Mini-Game — PIRATES
+### 💊 PharmaWare — Smart Medication Management (Top 5 Hackathon)
+
+- Backend: Node.js + MongoDB Atlas
+- Authentication & secure APIs
+- Improved UI/UX using React + Vite
+
+🔗 https://github.com/manasm1706/PharmaWare-Invictus  
+
+---
+
+### 🏗 LabourNet — Construction Service Platform
+
+- MERN stack app connecting workers & contractors
+- Job posting, applications, user profiles
+- Clean UI + structured workflows
+
+🔗 https://github.com/manasm1706/labournet  
+
+---
+
+## 🎮 Fun Project
+
+### 🏴‍☠️ Pirates — Browser Game
 
 <p align="center">
   <a href="https://manasm1706.github.io/pirates">
@@ -65,21 +101,15 @@ Connecting contractors & workers through job posts & profiles.
   </a>
 </p>
 
-A tiny retro browser game built with HTML5 Canvas & JavaScript.
+Built using HTML5 Canvas & JavaScript.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=manasm1706&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasm1706&layout=compact&hide_border=true"
-    height="160"
-  />
+  <img src="https://streak-stats.demolab.com?user=manasm1706&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasm1706&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
