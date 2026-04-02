@@ -1,6 +1,6 @@
 <!-- Pixel Branding -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manasm1706/manasm1706/main/header.png" />
+  <img src="https://github.com/manasm1706/manasm1706/blob/main/Header.png" />
 </p>
 
 <p align="center">
