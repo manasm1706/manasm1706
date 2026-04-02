@@ -4,6 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <b>Manas Mungekar</b></h1>
+
 <h3 align="center">
   Full-Stack Developer | AI Systems Builder | MERN + Data Engineering
 </h3>
@@ -27,24 +28,24 @@ I’m a Computer Engineering student focused on building **real-world software s
 
 ## 🧠 Experience
 
-### 💼 Software Developer Intern — Eagle Electrical Systems
-- Built **Reprice AI**, a dynamic pricing platform
-- Implemented **ML-based pricing models**
-- Used **Pinecone (vector DB)** for real-time decision systems
+### 💼 Software Developer Intern — [Eagle Electrical Systems](https://www.linkedin.com/in/manas-mungekar-14007a28b/)
+- Built **Reprice AI**, a dynamic pricing platform  
+- Implemented **ML-based pricing models**  
+- Used **Pinecone (vector DB)** for real-time decision systems  
 - Worked across full stack (React + Node + NeonDB)
 
 ---
 
-### 💼 Software Development Intern — Megasys India
-- Developed features in **React Native (Expo) app**
-- Implemented **secure API-based authentication**
-- Worked on real-time scanning systems
+### 💼 Software Development Intern — [Megasys India](https://www.linkedin.com/in/manas-mungekar-14007a28b/)
+- Developed features in **React Native (Expo) app**  
+- Implemented **secure API-based authentication**  
+- Worked on real-time scanning systems  
 
 ---
 
-### 💼 Web Development Intern — Megasys India
-- Built UI components using **HTML, CSS, JavaScript**
-- Implemented **API throttling & backend optimizations**
+### 💼 Web Development Intern — [Megasys India](https://www.linkedin.com/in/manas-mungekar-14007a28b/)
+- Built UI components using **HTML, CSS, JavaScript**  
+- Implemented **API throttling & backend optimizations**  
 - Worked on **ASP.NET-based systems**
 
 ---
@@ -62,10 +63,10 @@ I’m a Computer Engineering student focused on building **real-world software s
 ### 🔥 Reprice AI — Intelligent Pricing System
 > AI-powered dynamic pricing using real-time data & vector embeddings
 
-- ⚙️ React + Node.js + NeonDB + Pinecone
-- 🤖 ML-based pricing engine
-- 🧠 Vector search for decision-making
-- 🔄 Multi-agent tracking system
+- ⚙️ React + Node.js + NeonDB + Pinecone  
+- 🤖 ML-based pricing engine  
+- 🧠 Vector search for decision-making  
+- 🔄 Multi-agent tracking system  
 
 🔗 https://github.com/manasm1706/Reprice-Master-Repo  
 
@@ -73,9 +74,9 @@ I’m a Computer Engineering student focused on building **real-world software s
 
 ### 💊 PharmaWare — Smart Medication Management (Top 5 Hackathon)
 
-- Backend: Node.js + MongoDB Atlas
-- Authentication & secure APIs
-- Improved UI/UX using React + Vite
+- Backend: Node.js + MongoDB Atlas  
+- Authentication & secure APIs  
+- Improved UI/UX using React + Vite  
 
 🔗 https://github.com/manasm1706/PharmaWare-Invictus  
 
@@ -83,15 +84,39 @@ I’m a Computer Engineering student focused on building **real-world software s
 
 ### 🏗 LabourNet — Construction Service Platform
 
-- MERN stack app connecting workers & contractors
-- Job posting, applications, user profiles
-- Clean UI + structured workflows
+- MERN stack app connecting workers & contractors  
+- Job posting, applications, user profiles  
+- Clean UI + structured workflows  
 
 🔗 https://github.com/manasm1706/labournet  
 
 ---
 
-## 🎮 Fun Project
+## 🎮 More Projects
+
+### 🧠 Disaster Relief DApp
+Blockchain-based disaster fund collection system  
+🔗 https://github.com/manasm1706/disaster-dapp  
+
+---
+
+### 💬 ChronoVault
+Memory vault app with chat-based interactions  
+🔗 https://github.com/manasm1706/chronovault  
+
+---
+
+### ⚡ Shinigami Bin
+Pager-based system built for KiroWeen Hackathon  
+🔗 https://github.com/manasm1706/shinigami-bin  
+
+---
+
+### 🚀 AstroView
+Space-based website built for Invictus’26 Hackathon  
+🔗 https://github.com/manasm1706/astroview  
+
+---
 
 ### 🏴‍☠️ Pirates — Browser Game
 
@@ -122,5 +147,8 @@ Built using HTML5 Canvas & JavaScript.
   </a>
   <a href="https://github.com/manasm1706">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://leetcode.com/u/CodePirate_127/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
 </p>
