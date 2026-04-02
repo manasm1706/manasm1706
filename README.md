@@ -1,13 +1,7 @@
 <!-- Pixel Branding -->
 <p align="center">
-  <img src="https://pixeljoint.com/files/icons/full/gnzuifa.png" width="140" />
+  <img src="https://raw.githubusercontent.com/manasm1706/manasm1706/main/header.png" />
 </p>
-
-<h1 align="center">Hi 👋, I'm <b>Manas Mungekar</b></h1>
-
-<h3 align="center">
-  Full-Stack Developer | AI Systems Builder | MERN + Data Engineering
-</h3>
 
 <p align="center">
   Building scalable web apps, intelligent systems, and real-world solutions 🚀
